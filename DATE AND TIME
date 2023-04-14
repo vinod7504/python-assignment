@@ -1,1 +1,33 @@
 
+                           DATE
+import datetime as dt
+currentdate=dt.date.today()
+print(currentdate)
+
+                      DAY
+import datetime as dt
+date=dt.date.today()
+print(date.year)
+print(month.year)
+print(day.year)
+
+                        TIME
+import datetime as dt
+time=dt.time()
+print(time)
+Here it will execute 00:00:00
+
+                   CURRENT DATE AND TIME
+import datetime as dt
+datetimeobj=dt.datetime.today()
+print(datetimeobj)
+print(datetimeobj.date())
+print(datetimeobj.time())
+
+
+                   NO OF DAYS AND TIME FOR OUR WANTED TIME
+import datetime as dt
+currentdate=dt.datetime.now()
+nextnewyear=dt.datetime(2024,1,1)
+time remianing=nextnewyear-currentdate
+print(time remianing)
