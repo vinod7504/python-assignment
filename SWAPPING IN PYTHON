@@ -1,1 +1,7 @@
-
+x=int(input("Enter a:"))
+y=int(input("Enter b:"))
+temp=x
+x=y
+y=temp
+print(x)
+print(y
