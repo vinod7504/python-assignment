@@ -1,1 +1,24 @@
+x=str(input("Enter the word:"))
+w=""
+for i in x:
+    w=i+w
 
+if(x==w):
+    print("It is a palindrome")
+else:
+    print("it is not a palindrome")
+    
+    NUMBER PALINDROME:
+    
+    
+x=int(input("Enter the number:"))
+t=x
+w=0
+while((x//1)>0):
+    i=x%10
+    w=(w*10)+i
+    x=int(x/10)
+if(t==w):
+    print("It is a palindrome")
+else:
+    print("It is not a palindrome")
