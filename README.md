@@ -1,4 +1,4 @@
-# python-assignment
+#PYTHON ASSIGNMENT
 
 1.Armstrong number
      This file tells about Armstrong numberthat if we power the each digit of the number with number of digits and add it. If we get the same number then it is called the armstrong number.
