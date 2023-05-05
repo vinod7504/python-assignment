@@ -25,3 +25,10 @@
     This file consists of the programme for finding the pascal triangle. In which if we give the number of lines then it prints the pascal traingle. The pascal traingle consits of the binomial coefficients only. In this the computer computes the values and gives the outputs.
     
 9.Prime number
+    This file consists of the programme for finding the number of prime number and the prime number in between the upper and lower number. By using for loop we can do this programme.
+    
+10.Swapping of the number
+     This file consists of the programme for swappping of two number. It is the basic programme in which swapping of two number using an external variable takes place in which one number is substitued in the other varaible and the other number substituted in the 2nd number and swapping takes place.
+                  
+                  
+                                                           Thank You sir
