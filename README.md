@@ -10,4 +10,18 @@
     This file consists of the problem of fibnoccic series in which we can get the addition of two number leads to the third number. And swapping of the number takes place for the third number and the second number and this process goes on until the given number.
     
 4.Largest number
-    This file consists of the programme for finding the largest number in the given number.
+    This file consists of the programme for finding the largest number in the given number. This programme is done in the if-else condition.
+    
+5.Leap year
+    This file consisys of the programme for finding the given year is the leap year or not. By the given comditions we can sau that the year is the leap year or not
+    
+6.Multiplication Table
+    This file consists of the programme for finding the multiplication table for any number. In which this programme gibes the output in the form of the number*multipliler=result. 
+    
+7.Palindrome
+    This file consists of the programme for finding the given number is the palindrome or not. For the number to be palindrome if we reverse the number by doing some operattion if we get the same number then it is the palindrome if not it is not a palindrome.
+    
+8.Pascal Triangle
+    This file consists of the programme for finding the pascal triangle. In which if we give the number of lines then it prints the pascal traingle. The pascal traingle consits of the binomial coefficients only. In this the computer computes the values and gives the outputs.
+    
+9.Prime number
